@@ -2,7 +2,18 @@
     text-align: center;
     color: black;
 }
+
 .titulo{
     text-align: center;
     color: blue;
+}
+
+.content{
+    text-align: center;
+}
+
+.tablaPrincipal{
+    margin: auto;
+    margin-top: 200px;
+    color: rgb(98, 97, 97);
 }
